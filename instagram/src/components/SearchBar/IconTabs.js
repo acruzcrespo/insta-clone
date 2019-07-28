@@ -1,7 +1,7 @@
 import React from "react";
-import compass from "./compass-regular.svg";
-import heart from "./heart-regular.svg";
-import user from "./user-regular.svg";
+import compass from "./compass.svg";
+import heart from "./heart-reg.svg";
+import user from "./red-user.svg";
 import PropTypes from "prop-types";
 
 const IconTabs = props => {
